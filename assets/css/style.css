@@ -1,0 +1,433 @@
+#absoluteBox {
+	font-family: 'Georgia', 'Times', 'Times New Roman', 'serif';
+	background-color: #4aaaa5;
+	color: white;
+	font-size: 28px;
+	position: relative;
+	top: 32px;
+	left: 15px;
+	text-align: center;
+	width: 240px;
+	height: 100px;
+	line-height: 100px;
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-left: 76px;
+}
+
+#connectWithMe {
+	font-family: 'Georgia', 'Times', 'Times New Roman', 'serif';
+	color: #4aaaa5;
+	float: right;
+	background: white;
+	text-align: center;
+	width: 252px;
+	height: 169px;
+	margin-right: 125px;
+	margin-top: 22px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #dddddd;
+}
+
+#connectWithMe .connectHeading {
+	margin-right: 7px;
+}
+
+#aboutMe {
+	background: white;
+	height: 500px;
+	width: 600px;
+	padding-top: 1px;
+	padding-left: 25px;
+	padding-right: 15px;
+	float: left;
+	font-size: 19.5px;
+	margin-left: 90px;
+	margin-top: 20px;
+	margin-bottom: 32px;
+	line-height: 33px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #dddddd;
+}
+
+#portfolio {
+	background: white;
+	left: 25px;
+	height: 675px;
+	width: 600px;
+	padding-top: 5px;
+	padding-left: 20px;
+	padding-right: 15px;
+	float: left;
+	margin-left: 90px;
+	margin-top: 20px;
+	margin-bottom: 30px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #dddddd;
+}
+
+#contact {
+	background: white;
+	color: #777777;
+	font-size: 20px;
+	float: left;
+	left: 25px;
+	height: 570px;
+	width: 600px;
+	padding-top: 5px;
+	padding-left: 20px;
+	margin-left: 90px;
+	margin-top: 20px;
+	margin-bottom: 30px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #dddddd;
+}
+
+#profilePhoto {
+	float: left;
+	overflow: auto;
+	margin-right: 30px;
+	padding-top: 18px;
+}
+
+#row1 {
+	display: inline;
+	float: left;
+	padding: 20px 20px 0px 10px;
+}
+
+#row2 {
+	display: inline;
+	float: right;
+	padding: 20px 20px 0px 10px;
+
+}
+
+/*#row1 {
+	white-space: nowrap;
+  	list-style: none;
+  	display: inline;
+}
+
+#row2 {
+	white-space: nowrap;
+  	list-style: none;
+	display: inline;
+}
+
+.li {
+	list-style: none;
+  	display: inline;
+}
+
+.imagePlaceholder {
+	width: 270px;
+} */
+
+#submitButton {
+	background-color: #4aaaa5;
+	font-size: 15px;
+	color: white;
+	height: 35px;
+	width: 90px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #dddddd;
+}
+
+#absoluteText1 {
+	width: 250px;
+	height: 20px;
+	background-color: #4aaaa5;
+	color: white;
+	padding: 10px 0px 10px 0px;
+	text-align: center;
+	font-size: 19px;
+	z-index: 2;
+	position: relative;
+    bottom: 90px;
+}
+
+#absoluteText2 {
+	width: 250px;
+	height: 20px;
+	background-color: #4aaaa5;
+	color: white;
+	padding: 10px 0px 10px 0px;
+	text-align: center;
+	font-size: 19px;
+	z-index: 2;
+	position: relative;
+    bottom: 90px;
+}
+
+#absoluteText3 {
+	width: 275px;
+	height: 20px;
+	background-color: #4aaaa5;
+	color: white;
+	padding: 10px 0px 10px 0px;
+	text-align: center;
+	font-size: 19px;
+	z-index: 2;
+	position: relative;
+    bottom: 90px;
+}
+
+#absoluteText4 {
+	width: 275px;
+	height: 20px;
+	background-color: #4aaaa5;
+	color: white;
+	padding: 10px 0px 10px 0px;
+	text-align: center;
+	font-size: 19px;
+	z-index: 2;
+	position: relative;
+    bottom: 90px;
+} 
+
+#textBox {
+	width: 555px;
+}
+
+#textArea {
+	width: 555px;
+}
+
+.navBar {
+	color: #777777;
+	float: right;
+	position: relative;
+	bottom: 38px;
+	right: 148px;
+	font-size: 18px;
+}
+
+.container {
+	overflow: auto;
+	margin: 0;
+	display: block;
+	width: 100%;
+}
+
+.logos {
+	margin-top: 15px;
+}
+
+header {
+	background: #ffffff;
+	border-bottom: 3px;
+	position: relative;
+}
+
+body {
+	background: url("../images/background.png");
+	margin: 0;
+}
+
+p { 
+	color: #777777;
+}
+
+h2 {
+	font-family: 'Georgia', 'Times', 'Times New Roman', 'serif';
+	color: #4aaaa5;
+	font-size: 32px;
+}
+
+ul {
+	margin: 0px;
+    list-style-type: none;
+    padding: 5px 0px 5px 0px;
+}
+
+li {
+	display: inline;
+    padding: 5px 0px 5px 5px;
+}
+
+footer {
+	background: #666666;
+	padding: 25px;
+	color: white;
+	text-align: center;
+	border-top-width: 10px;
+	border-top-style: solid;
+	border-top-color: #4aaaa5;
+}
+
+@media screen and (max-width: 980px) {
+	.container {
+		width: 100%;
+	}
+
+	#textBox {
+		width: 340px;
+	}
+
+	#textArea {
+		width: 340px;
+	}
+
+	#aboutMe {
+		width: 380px;
+		height: 700px;
+	}
+
+	#portfolio {
+		width: 380px;
+		height: 1330px;
+	}
+
+	#contact {
+		width: 380px;
+		height: 580px;
+	}
+
+	#row1 {
+		display: inline;
+		float: left;
+		padding: 20px 20px 0px 54px;
+	}
+
+	#row2 {
+		display: inline;
+		float: right;
+		padding: 20px 63px 0px 10px;
+	}
+
+@media screen and (max-width: 768px) {
+	.container {
+		width: 95%;
+		margin-bottom: 20px;
+		margin-left: 20px;
+		position: relative;
+		right: 20px;
+	}
+
+	#absoluteBox {
+		left: -49px;
+	}
+
+	#aboutMe {
+		width: 100%;
+		height: 75%;
+		margin-left: 25px;
+	}
+
+	#portfolio {
+		width: 100%;
+		height: 700px;
+		margin-left: 25px;
+	}
+
+	#contact {
+		width: 100%;
+		height: 580px;
+		margin-left: 25px;
+	}
+
+	#connectWithMe {
+
+		text-align: left;
+		width: 100%;
+		margin-right: -67px;
+		padding-left: 20px;
+		padding-right: 20px;
+		/*width: 100%;
+		margin-right: -25px;
+		margin-left: -50px;
+		text-align: left;
+		padding-left: 30px;
+		padding-right: 30px;*/
+	}
+
+	#textBox {
+		width: 640px;
+	}
+
+	#textArea {
+		width: 640px;
+	}
+
+	#underlineWidth {
+		width: 100%;
+	}
+
+	#profilePhoto {
+		padding-left: 0px;
+		padding-bottom: 0px;
+	}
+
+	#row1 {
+		display: inline;
+		float: left;
+		padding: 20px 20px 0px 38px;
+	}
+
+	#row2 {
+		display: inline;
+		float: right;
+		padding: 20px 78px 0px 10px;
+	}
+
+@media screen and (max-width: 640px) {
+	#aboutMe {
+		width: 100%;
+		height: 75%;
+		margin-left: 25px;
+		text-align: center;
+	}
+
+	#portfolio {
+		width: 380px;
+		height: 1330px;
+		text-align: center;
+	}
+
+	#contact {
+		width: 380px;
+		height: 600px;
+	}
+
+	#absoluteBox {
+		width: 100%;
+		float: none;
+		left: -75px;
+		margin-bottom: 72px;
+	}
+
+	.navBar {
+		width: 62%%;
+		right: 100px;
+		top: -19px;
+	}
+
+	#profilePhoto {
+		width: 100%;
+	}
+
+	#textBox {
+		width: 340px;
+	}
+
+	#textArea {
+		width: 340px;
+	}
+
+	#connectWithMe {
+		text-align: center;
+		width: 100%;
+	}	
+
+	header {
+		position: none;
+	}
+
+
+}
